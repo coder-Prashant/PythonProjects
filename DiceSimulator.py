@@ -1,3 +1,9 @@
+################################################################
+# Code author: Prashant Sharma
+# Code written on: 18-Aug-2022
+# Code description: This script is created for Dice simulation in Python language
+################################################################
+
 # Import the required modules
 import random
 import os
